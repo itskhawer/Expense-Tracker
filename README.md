@@ -1,4 +1,4 @@
-# Expense Tracker App
+# Expense Tracker Android Application
 
 An Android app to track daily expenses, manage categories, and view expense history. Built with Java and SQLite.
 
@@ -11,14 +11,6 @@ An Android app to track daily expenses, manage categories, and view expense hist
 - **Edit/Delete Expenses**: Update or delete existing expenses.
 - **Expense Categories**: Predefined categories like Food, Transport, Entertainment, and Other.
 - **User-Friendly UI**: Clean and intuitive Material Design interface.
-
----
-
-## Screenshots
-
-| Main Screen | Add Expense | View Expenses |
-|-------------|-------------|---------------|
-| ![Main Screen](https://via.placeholder.com/300) | ![Add Expense](https://via.placeholder.com/300) | ![View Expenses](https://via.placeholder.com/300) |
 
 ---
 
