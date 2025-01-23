@@ -38,4 +38,4 @@ An Android app to track daily expenses, manage categories, and view expense hist
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/itskhawer/ExpenseTracker.git
+   git clone https://github.com/itskhawer/Expense-Tracker.git
