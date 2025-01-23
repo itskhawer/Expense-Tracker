@@ -1,0 +1,26 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Expense Tracker</string>
+
+    <!-- MainActivity -->
+    <string name="btn_add_expense">Add Expense</string>
+    <string name="btn_view_expenses">View Expenses</string>
+
+    <!-- AddExpenseActivity -->
+    <string name="hint_amount">Amount</string>
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="toast_enter_amount">Please enter an amount</string>
+    <string name="toast_expense_saved">Expense saved!</string>
+    <string name="toast_failed_to_save">Failed to save expense</string>
+
+    <!-- ViewExpensesActivity -->
+    <string name="title_view_expenses">View Expenses</string>
+
+    <!-- Expense Categories -->
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+</resources>
